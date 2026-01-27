@@ -17,5 +17,10 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0748-shortest-completing-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
