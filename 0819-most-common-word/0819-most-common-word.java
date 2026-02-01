@@ -7,11 +7,11 @@ class Solution {
         }
         char[] str=paragraph.toLowerCase().toCharArray();
         StringBuilder res=new StringBuilder();
-        for(char st:str)
+        for(char s:str)
         {
-            if(Character.isLetter(st))
+            if(Character.isLetter(s))
             {
-                res.append(st);
+                res.append(s);
 
             }
             else{
