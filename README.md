@@ -10,6 +10,7 @@
 | [0804-unique-morse-code-words](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 ## Sorting
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0748-shortest-completing-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0748-shortest-completing-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +42,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
