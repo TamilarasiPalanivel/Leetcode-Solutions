@@ -11,6 +11,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0804-unique-morse-code-words](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->
