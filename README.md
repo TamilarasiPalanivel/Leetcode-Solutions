@@ -12,6 +12,7 @@
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Geometry
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
