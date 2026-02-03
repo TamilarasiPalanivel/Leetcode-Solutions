@@ -14,10 +14,12 @@
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
 | ------- |
