@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
