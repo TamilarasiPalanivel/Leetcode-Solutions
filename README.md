@@ -16,6 +16,7 @@
 | [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@
 | [0804-unique-morse-code-words](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 ## Math
 |  |
 | ------- |
