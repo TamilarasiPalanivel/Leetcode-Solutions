@@ -16,6 +16,7 @@
 | [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
@@ -31,6 +32,7 @@
 | [0804-unique-morse-code-words](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
@@ -48,6 +50,7 @@
 | [0171-excel-sheet-column-number](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +93,8 @@
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
