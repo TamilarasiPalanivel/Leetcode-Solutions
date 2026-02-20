@@ -20,6 +20,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## String
 |  |
 | ------- |
