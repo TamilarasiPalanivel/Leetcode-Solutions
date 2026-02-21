@@ -93,6 +93,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1729-find-followers-count) |
