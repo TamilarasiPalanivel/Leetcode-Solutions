@@ -14,6 +14,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0896-monotonic-array) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Matrix
@@ -61,11 +63,13 @@
 | [0766-toeplitz-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Geometry
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Counting
 |  |
