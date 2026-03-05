@@ -25,6 +25,7 @@
 | [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
