@@ -22,6 +22,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
@@ -50,6 +51,7 @@
 | [0819-most-common-word](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
