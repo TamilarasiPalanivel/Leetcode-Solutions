@@ -24,12 +24,14 @@
 | [0941-valid-mountain-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
@@ -61,6 +63,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -118,4 +121,5 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
