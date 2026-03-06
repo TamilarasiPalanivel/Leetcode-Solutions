@@ -26,6 +26,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/TamilarasiPalanivel/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 ## Math
 |  |
 | ------- |
